@@ -20,7 +20,7 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PavanRF/REAL_TIME_GAMEPLAY_USING_POSE_DETECTION.git
+   git clone https://github.com/GUMMA KARTHEEK/REAL_TIME_GAMEPLAY_USING_POSE_DETECTION.git
 
 2. Navigate to the project directory:
     ```bash
@@ -74,6 +74,6 @@ Contributions are welcome! To contribute to this project, follow these steps:
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 📬 Contact
 
-Project Owner: Pavan Kumar
+Project Owner: GUMMA KARTHEEK
 
-Email: 99230040912@klu.ac.in
+Email: 99230040869@klu.ac.in
